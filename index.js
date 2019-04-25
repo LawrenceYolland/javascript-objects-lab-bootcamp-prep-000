@@ -1,1 +1,1 @@
-var recipes = new Object
+var recipes = {Flour: '1 Gram', Eggs: 'Two', Milk: 'One Cup'}
